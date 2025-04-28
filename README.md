@@ -1,3 +1,5 @@
+[![zh](https://img.shields.io/badge/lang-zh-green.svg)](README_zh.md)
+
 # Advanced ARP Spoofing Tool 🔍
 
 ## 🚨 Disclaimer
